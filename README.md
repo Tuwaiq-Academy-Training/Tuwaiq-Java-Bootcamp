@@ -32,5 +32,6 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 2   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)|[Lab](https://github.com/Tuwaiq-Java/Week-02-Day-02)|[Homework](https://github.com/Tuwaiq-Java/Week-02-Day-02)
 | Week 2| 3  |[Lombok-Validation-Service](https://github.com/Tuwaiq-Java/Week-02-Day-03)|[Lab](https://github.com/Tuwaiq-Java/Week-02-Day-03)|[Homework](https://github.com/Tuwaiq-Java/Week-02-Day-03)
 | Week 2| 4   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/Week-02-Day-04)|[Lab](https://github.com/Tuwaiq-Java/Week-02-Day-04)|[Homework](https://github.com/Tuwaiq-Java/Week-02-Day-04)
+| Week 2| 6   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)|[Lab](https://github.com/Tuwaiq-Java/Week-02-Day-05)|[Homework](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 
 
