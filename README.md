@@ -33,10 +33,10 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 3  |[Lombok-Validation-Service](https://github.com/Tuwaiq-Java/Week-02-Day-03)
 | Week 2| 4   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/Week-02-Day-04)
 | Week 2| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
-| Week 3| 1   |[JPQL, Relationship]
-| Week 3| 2   |[Errors Handling, Logging]
-| Week 3| 3  |[Spring security authentication and authorization]
-| Week 3| 4   |[Project based - Spring boot application]
-| Week 3| 5   |[Exercises]
+| Week 3| 1   |[JPQL, Relationship](https://github.com/Tuwaiq-Java/Week-02-Day-05)
+| Week 3| 2   |[Errors Handling, Logging](https://github.com/Tuwaiq-Java/Week-02-Day-05)
+| Week 3| 3  |[Spring security authentication and authorization](https://github.com/Tuwaiq-Java/Week-02-Day-05)
+| Week 3| 4   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-05)
+| Week 3| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 
 
