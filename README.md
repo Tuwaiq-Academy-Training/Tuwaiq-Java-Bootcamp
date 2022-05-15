@@ -5,7 +5,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 10am - 6pm  |
+| Class | Sun - Thurs  | 9am - 5pm  |
 
 
 ## What We Expect From You
