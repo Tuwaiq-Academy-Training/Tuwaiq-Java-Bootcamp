@@ -36,7 +36,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 3| 1   |[JPQL, Relationship]
 | Week 3| 2   |[Errors Handling, Logging]
 | Week 3| 3  |[Spring security authentication and authorization]
-| Week 3| 4   |[Project based]
+| Week 3| 4   |[Project based - Spring boot application]
 | Week 3| 5   |[Exercises]
 
 
