@@ -24,7 +24,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week   | Day | Lesson | Homework |
 |:-----:|:---:|:------:|:------:|
 | Week 1| 1   |[Web development introduction](https://github.com/Tuwaiq-Java/Week-01-Day-01)|--- |
-| Week 1| 2   |[Java basics-Arrays-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)[Homework 1](https://github.com/Tuwaiq-Java/Week-01-day-02-hw)
+| Week 1| 2   |[Java basics-Arrays-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)|[Homework 1](https://github.com/Tuwaiq-Java/Week-01-day-02-hw)|
 | Week 1| 3   |[Exceptions-Programming paradigms-Static keywords-Access modifiers](https://github.com/Tuwaiq-Java/Week-01-Day-03)
 | Week 1| 4   |[OOP principles-ArrayList-Scanner-Enum](https://github.com/Tuwaiq-Java/Week-01-Day-04)
 | Week 1| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-01-Day-05)
