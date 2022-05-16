@@ -21,7 +21,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 * Be supportive.
 * Talk to us
 
-| Week   | Day | Lesson |
+| Week   | Day | Lesson | Homework |
 |:-----:|:---:|:------:|
 | Week 1| 1   |[Web development introduction](https://github.com/Tuwaiq-Java/Week-01-Day-01)|Homework  |
 | Week 1| 2   |[Java basics-Arrays-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)
