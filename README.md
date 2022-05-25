@@ -31,7 +31,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 1   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Java/Week-02-Day-01)| [Homework 5](https://github.com/Tuwaiq-Java/week-02-day-01-hw)|
 | Week 2| 2   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)| [Homework 6](https://github.com/Tuwaiq-Java/week-02-day-02-hw)|
 | Week 2| 3   |[Lombok-Validation-Service](https://github.com/Tuwaiq-Java/Week-02-Day-03)| [Homework 7](https://github.com/Tuwaiq-Java/week_02_day-03_hw)|
-| Week 2| 4   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-04)
+| Week 2| 4   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-04)| [Homework 8](https://github.com/Tuwaiq-Java/week-02-day-04-hw)|
 | Week 2| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 | Week 3| 1   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/Week-02-Day-04)
 | Week 3| 2   |[JPQL, Relationship](https://github.com/Tuwaiq-Java/Week-02-Day-01)
