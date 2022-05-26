@@ -35,8 +35,13 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 | Week 3| 1   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/Week-02-Day-04)
 | Week 3| 2   |[JPQL, Relationship](https://github.com/Tuwaiq-Java/Week-02-Day-01)
-| Week 3| 3   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-04)
-| Week 3| 4   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Java/Week-02-Day-03)
+| Week 3| 3   |[Exceptions handling and logs tracking](https://github.com/Tuwaiq-Java/Week-02-Day-03)
+| Week 3| 4   |[Project based - Spring boot application](https://github.com/Tuwaiq-Java/Week-02-Day-04)
 | Week 3| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
+| Week 4| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Java/Week-02-Day-04)
+| Week 4| 2   |[Final project](https://github.com/Tuwaiq-Java/Week-02-Day-01)
+| Week 4| 3   |[Final project](https://github.com/Tuwaiq-Java/Week-02-Day-04)
+| Week 4| 4   |[Final project](https://github.com/Tuwaiq-Java/Week-02-Day-03)
+| Week 4| 5   |[Final project presentation](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 
 
