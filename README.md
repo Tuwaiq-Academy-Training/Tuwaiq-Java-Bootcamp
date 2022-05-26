@@ -27,7 +27,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 1| 2   |[Java basics-Arrays-Methods](https://github.com/Tuwaiq-Java/Week-01-Day-02)|[Homework 1](https://github.com/Tuwaiq-Java/Week-01-day-02-hw)|
 | Week 1| 3   |[Exceptions-Programming paradigms-Static keywords-Access modifiers](https://github.com/Tuwaiq-Java/Week-01-Day-03)|[Homework 2](https://github.com/Tuwaiq-Java/Week-01-day-03-hw)|
 | Week 1| 4   |[OOP principles-ArrayList-Scanner-Enum](https://github.com/Tuwaiq-Java/Week-01-Day-04)|[Homework 3](https://github.com/Tuwaiq-Java/week-01-day-04-hw)|
-| Week 1| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-01-Day-05) | [Homework 4](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
+| Week 1| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-01-Day-05) | [Project 1](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
 | Week 2| 1   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Java/Week-02-Day-01)| [Homework 5](https://github.com/Tuwaiq-Java/week-02-day-01-hw)|
 | Week 2| 2   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Java/Week-02-Day-02)| [Homework 6](https://github.com/Tuwaiq-Java/week-02-day-02-hw)|
 | Week 2| 3   |[Lombok-Validation-Service](https://github.com/Tuwaiq-Java/Week-02-Day-03)| [Homework 7](https://github.com/Tuwaiq-Java/week_02_day-03_hw)|
