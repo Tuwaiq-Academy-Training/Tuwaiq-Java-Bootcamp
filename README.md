@@ -36,7 +36,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 3| 1   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Java/week-03-day-01)| [Homework 9](https://github.com/Tuwaiq-Java/HomeWork-9)|
 | Week 3| 2   |[JPQL](https://github.com/Tuwaiq-Java/week-03-day-02)| [Homework 10](https://github.com/Tuwaiq-Java/HomeWork-9)|
 | Week 3| 3   |[Relationship](https://github.com/Tuwaiq-Java/Week-03-Day-03)| [Homework 11](https://github.com/Tuwaiq-Java/week-03-day-03-hw)|
-| Week 3| 4   |[Exceptions handling ,logs tracking](https://github.com/Tuwaiq-Java/Week-03-Day-04)
+| Week 3| 4   |[Exceptions handling ,logs tracking](https://github.com/Tuwaiq-Java/Week-03-Day-04)| [Homework 12](https://github.com/Tuwaiq-Java/week-03-day-04-hw)|
 | Week 3| 5   |[Exercises](https://github.com/Tuwaiq-Java/Week-02-Day-05)
 | Week 4| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Java/Week-02-Day-04)
 | Week 4| 2   |[Final project](https://github.com/Tuwaiq-Java/Week-02-Day-01)
