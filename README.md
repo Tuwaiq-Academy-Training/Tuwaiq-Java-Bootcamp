@@ -46,6 +46,3 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 5| 1   |[Final project 4](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
 | Week 5| 2   |[Final project presentation](https://github.com/Tuwaiq-Java/Week-04-Day-05)|---|
 
-
-
-
